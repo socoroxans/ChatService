@@ -1,0 +1,5 @@
+C:\Users\smart store\source\repos\ChatService\ChatService\Helper\bin\Debug\Helper.dll
+C:\Users\smart store\source\repos\ChatService\ChatService\Helper\bin\Debug\Helper.pdb
+C:\Users\smart store\source\repos\ChatService\ChatService\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\smart store\source\repos\ChatService\ChatService\Helper\obj\Debug\Helper.dll
+C:\Users\smart store\source\repos\ChatService\ChatService\Helper\obj\Debug\Helper.pdb

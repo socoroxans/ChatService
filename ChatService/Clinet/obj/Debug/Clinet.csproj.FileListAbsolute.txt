@@ -1,0 +1,7 @@
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\bin\Debug\Clinet.exe.config
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\bin\Debug\Clinet.exe
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\bin\Debug\Clinet.pdb
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\obj\Debug\Clinet.csprojAssemblyReference.cache
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\obj\Debug\Clinet.csproj.CoreCompileInputs.cache
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\obj\Debug\Clinet.exe
+C:\Users\smart store\source\repos\ChatService\ChatService\Clinet\obj\Debug\Clinet.pdb
